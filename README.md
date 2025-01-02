@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Somnath Nil
+Author - Somnath Nil(Apna College)
